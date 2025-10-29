@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
-<title>Builder Land Hub</title>
+<title>BLH</title>
 <circle cx="200" cy="200" r="190" fill="#2B6CB0"/>
-<g transform="translate(120,100)">
-<rect x="0" y="140" width="160" height="30" rx="4" fill="#1E4E8C"/>
-<path d="M 20 140 L 20 40 L 80 10 L 140 40 L 140 140 Z" fill="#ffffff" stroke="#E2E8F0" stroke-width="3"/>
-<rect x="40" y="60" width="30" height="30" rx="2" fill="#2B6CB0"/>
-<rect x="90" y="60" width="30" height="30" rx="2" fill="#2B6CB0"/>
-<rect x="40" y="100" width="30" height="30" rx="2" fill="#2B6CB0"/>
-<rect x="90" y="100" width="30" height="30" rx="2" fill="#2B6CB0"/>
+<g transform="translate(100,80)">
+<rect x="0" y="180" width="200" height="40" rx="4" fill="#1E4E8C"/>
+<path d="M 30 180 L 30 60 L 100 20 L 170 60 L 170 180 Z" fill="#ffffff" stroke="#E2E8F0" stroke-width="4"/>
+<rect x="55" y="85" width="35" height="35" rx="2" fill="#2B6CB0"/>
+<rect x="110" y="85" width="35" height="35" rx="2" fill="#2B6CB0"/>
+<rect x="55" y="130" width="35" height="35" rx="2" fill="#2B6CB0"/>
+<rect x="110" y="130" width="35" height="35" rx="2" fill="#2B6CB0"/>
 </g>
-<text x="200" y="320" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700">BUILDER LAND HUB</text>
 </svg>
